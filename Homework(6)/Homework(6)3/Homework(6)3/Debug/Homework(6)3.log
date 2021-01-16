@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\study\C++\ООП (С++)\ООП(6)\Homework(6)\Homework(6)3\Homework(6)3\Source.cpp(248,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\study\C++\ООП (С++)\ООП(6)\Homework(6)\Homework(6)3\Homework(6)3\Source.cpp(150,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\study\C++\ООП (С++)\ООП(6)\Homework(6)\Homework(6)3\Homework(6)3\Source.cpp(147): message : во время компиляции функции-члена класс шаблон "Array<int> Array<int>::Append(const Array<int> &) const"
+D:\study\C++\ООП (С++)\ООП(6)\Homework(6)\Homework(6)3\Homework(6)3\Source.cpp(261): message : выполняется компиляция ссылки на экземпляр шаблон функции "Array<int> Array<int>::Append(const Array<int> &) const"
+D:\study\C++\ООП (С++)\ООП(6)\Homework(6)\Homework(6)3\Homework(6)3\Source.cpp(249): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Array<int>"
+D:\study\C++\ООП (С++)\ООП(6)\Homework(6)\Homework(6)3\Homework(6)3\Source.cpp(198): warning C4715: Array<int>::operator=: значение возвращается не при всех путях выполнения
+D:\study\C++\ООП (С++)\ООП(6)\Homework(6)\Homework(6)3\Homework(6)3\Source.cpp(122): warning C4715: Array<int>::operator[]: значение возвращается не при всех путях выполнения
+  Homework(6)3.vcxproj -> D:\study\C++\ООП (С++)\ООП(6)\Homework(6)\Homework(6)3\Debug\Homework(6)3.exe
